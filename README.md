@@ -1,1 +1,16 @@
-# advanced-calculator
+{
+  "cli": {
+    "version": ">= 5.9.0"
+  },
+  "build": {
+    "preview": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      }
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}
