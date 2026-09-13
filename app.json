@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "ماشین‌حساب پیشرفته",
+    "slug": "advanced-calculator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0F1115",
+    "android": {
+      "package": "com.yourname.advancedcalculator",
+      "adaptiveIcon": {
+        "backgroundColor": "#0F1115"
+      }
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.yourname.advancedcalculator"
+    }
+  }
+}
