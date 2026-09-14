@@ -26,4 +26,6 @@ export const FONT = {
   sizeBody: 16,
   sizeLarge: 22,
   sizeDisplay: 48,
-  weig
+  weightBold: '700',
+  weightMedium: '600',
+};
